@@ -1,0 +1,13 @@
+body{
+  background-color: red;
+  color: white;
+}
+#img{
+  background-image: url(../images/test.jpg);
+  width: 700px;
+  height: 500px;
+  transform: rotate(45deg);
+}
+.hh{
+  width: auto;
+}
